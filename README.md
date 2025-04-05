@@ -3,12 +3,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Rihan</h1>
 
 - 🌍 I'm M. S. Rihan from Rangpur, Bangladesh
-- 💻 Full Stack Developer specializing in DSA, Problem Solving, and Web Development
+- 💻 Full Stack Developer | DSA Expert | AI Enthusiast
 - 🚀 Creator of [HI-API](https://github.com/itzrihan/hi-api) - Free Anime Streaming API
-- 🌐 Check out my portfolio: [itsrihan.me](https://itsrihan.me)
+- 📫 Reach me at: mononrihan7@gmail.com
+- 🌐 Portfolio: [itsrihan.me](https://itsrihan.me)
 
 <h2>My Tech Stack</h2>
-<p> 
+<p>
+  <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?logo=openai&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-%23000000.svg?logo=fastapi&logoColor=white" />
+  <br>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
@@ -26,18 +30,19 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p> 
+<p>
   <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzrihan&theme=tokyonight" />
 </p>
-<p> 
+<p>
   <img alt="Lang Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzrihan&theme=tokyonight" />
   <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzrihan&theme=tokyonight" />
 </p>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msrihan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itzrihan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msrihan)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itzrihan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/itzrihan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mononrihan7@gmail.com)
 
 -------
 
