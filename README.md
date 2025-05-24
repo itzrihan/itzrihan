@@ -5,7 +5,7 @@
 - 🌍 I'm M. S. Rihan from Rangpur, Bangladesh
 - 💻 Full Stack Developer | DSA Expert | AI Enthusiast
 - 🚀 Creator of [HI-API](https://github.com/itzrihan/hi-api) - Free Anime Streaming API
-- 📫 Reach me at: mononrihan7@gmail.com
+- 📫 Reach me at: suppourt@anitummy.com
 - 🌐 Portfolio: [itsrihan.me](https://itsrihan.me)
 
 <h2>My Tech Stack</h2>
